@@ -2,4 +2,5 @@
 My work with HTML | CSS | Bootstrap
 ___________________________________
 
-<img width="500" alt="image22" src="https://user-images.githubusercontent.com/103481753/190384656-418bfa4f-25dd-4b54-8351-4426e0b673fc.png"> <img width="500" alt="image11" src="https://user-images.githubusercontent.com/103481753/190384717-6d7129d9-3cb9-467e-9b66-a242c6a94d24.png">
+<img width="1293" alt="image1" src="https://user-images.githubusercontent.com/103481753/190384958-0171a8b9-1bef-40ca-a654-a0be68edd9ba.png"> <img width="1405" alt="image2" src="https://user-images.githubusercontent.com/103481753/190385004-d80ba3ad-5a6e-4a59-9ea4-8d817d2dc1ec.png">
+
