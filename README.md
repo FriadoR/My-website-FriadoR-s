@@ -1,4 +1,4 @@
-# My-website-FriadoR's             
+# My-website-FriadoR's           
 My work with HTML | CSS | Bootstrap.          
 This page work with links on another website, with icons and large images
 _________________________________________________________________________
